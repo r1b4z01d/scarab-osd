@@ -20,7 +20,7 @@ NOTE: if use Flight Controller voltage, then ALL adjustments are made on the FC.
 
 ## Calibration - Current ##
 
-NOTE: if use a hardware sensor connected to teh Flight Controller, then ALL adjustments are made on the FC. The following does not apply.
+NOTE: if use a hardware sensor connected to the Flight Controller, then ALL adjustments are made on the FC. The following does not apply.
 
 **Hardware current sensor - from a datasheet**
   1. Select "Enable ADC 5v ref"
